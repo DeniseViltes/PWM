@@ -1,0 +1,2 @@
+Al conectar el osciloscopio al pin PA6, se observa una pwm con duty variable entre 0 y 1 (ver en RESULTADOS test_1-osciloscopio).
+Por lo tanto, al conectar el LED se espera que la intensidad del brillo segun el duty que tenga la señal en determinado instante, lo cual se confirma y se observa en test_1-LED (en la carpeta RESULTADOS).

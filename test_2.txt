@@ -1,0 +1,1 @@
+En este caso, ahora el duty se mantiene constante y varia el periodo en conjunto con el tiempo de encendido, como se observa en test_2-osciloscopio (en RESULTADOS). Por lo tanto, al conectar el LED, con un duty constante, se observa una intensidad de brillo constante, en este caso, corresponde al 50% de la intensidad.
